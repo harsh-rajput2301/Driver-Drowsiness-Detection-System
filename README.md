@@ -14,7 +14,7 @@ In order to mitigate the drowsy-driving accidents ,we are using a set of multipl
 Whenever the driver yawns or closes his eyes for more than threshold time then the alarm goes on to signal the driver as well as the respective activity count is increased by one. On the closing of software the totals of each activity count will be displayed on screen using tkinter.
 
 ## Team
-We are a group of 5 people working together to solve this problem in an economically feasible manner.
+We are a group of 2 people working together to solve this problem in an economically feasible manner.
 * Harsh Vardhan Singh
 * Ankit Bhardwaj
 
