@@ -19,7 +19,7 @@ We are a group of 2 people working together to solve this problem in an economic
 * Ankit Bhardwaj
 
 ## How to run?
-* Run thon script using python yawn_detector.py
+* Run python script using python yawn_detector.py
 * Wait for script to start and then test it using closing eyes or yawning. Use keystroke q to close window and see this run analytics.
 * On pressing 'q' the tkinter will launch a dialog box that will represent the number of eyes closed and number of yawn taken.
 
